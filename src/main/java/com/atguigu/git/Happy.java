@@ -16,5 +16,8 @@ package com.atguigu.git;
 * @version V1.0 
 */
 public class Happy {
+	public static void main(String[] args) {
+		System.out.println("test...... ");
+	}
 
 }
